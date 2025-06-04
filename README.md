@@ -1,6 +1,6 @@
 # ProbAI
 
-![screenshot_probai](https://github.com/user-attachments/assets/fc329dcc-098b-4fed-882a-19d2ccfb9c60)
+![screenshot_probai](https://github.com/user-attachments/assets/c832ddd7-cd94-4e05-8187-ab3614f78c10)
 
 **Predict anything, anywhere, instantly.**
 ProbAI is a lightweight React-based web app that lets you ask probability questions and get a concise explanation plus a single, clearly-formatted percentage answer. 
